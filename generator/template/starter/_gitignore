@@ -1,0 +1,7 @@
+node_modules
+npm-debug.log
+yarn-error.log
+mix-manifest.json
+tests/.reports
+.idea
+.DS_Store
